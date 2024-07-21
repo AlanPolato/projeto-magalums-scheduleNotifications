@@ -1,0 +1,1 @@
+Olá, você está acessando os arquivos do projeto "desafio-magalu-scheduledNotifications". Saiba que esse projeto foi desenvolvido a partir do vídeo abaixo com o objetivo de entender melhor o funcionamento da linguagem Java com um framework como o Spring.
